@@ -1,3 +1,5 @@
+A new GUI version is available with many new features, check out: https://www.youtube.com/watch?v=Uk5C2xt-azo
+<br/>
 # EasyDockVina
 
 /////////////////////////////////////////////////////////////////////////<br/>
