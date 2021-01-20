@@ -40,3 +40,7 @@ size_z = ZZZZZZ <br/>
 this tool will only work on windows machines, linux version is on the way.<br/>
 Please report any bug to s3cr3tsdn@gmail.com<br/>
 if you need help to configure EasyDockVina to run on a webserver, contact me at s3cr3tsdn@gmail.com<br/>
+
+# Citation:
+
+Ahmed ElTijani, Mazin Yousif Alsafi, & Ahmed Faisal Ahmed. (2019, September 21). EasyDockVina: Graphical Interface for Ligand Optimization and High Throughput Virtual Screening with Vina (Version 2.2). Zenodo. http://doi.org/10.5281/zenodo.3732170
